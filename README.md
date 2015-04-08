@@ -35,7 +35,7 @@ Boom, terminal size. There isn't anything else to this package.
 
 ### Reference
 
-[godoc.org/github.com/demille/termsize](https://godoc.org/github.com/demille/termsize)
+[godoc.org/github.com/DeMille/termsize](https://godoc.org/github.com/DeMille/termsize)
 
 ### License
 
